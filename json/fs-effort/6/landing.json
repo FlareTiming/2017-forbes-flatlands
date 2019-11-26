@@ -1,0 +1,323 @@
+{
+  "chunking": {
+    "endChunk": [
+      2272,
+      "227.2 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 6364
+  },
+  "bestDistance": null,
+  "difficulty": [
+    {
+      "endChunk": "11.7 km",
+      "down": 1,
+      "chunk": 116,
+      "startChunk": "11.6 km",
+      "frac": 0.027577,
+      "downers": [
+        [
+          "64",
+          "Longfei Yang"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "54.1 km",
+      "downs": [
+        "11.624 km"
+      ]
+    },
+    {
+      "endChunk": "31.5 km",
+      "down": 1,
+      "chunk": 314,
+      "startChunk": "31.4 km",
+      "frac": 0.06937461,
+      "downers": [
+        [
+          "71",
+          "Rob Larkin"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "73.9 km",
+      "downs": [
+        "31.495 km"
+      ]
+    },
+    {
+      "endChunk": "40.7 km",
+      "down": 1,
+      "chunk": 406,
+      "startChunk": "40.6 km",
+      "frac": 0.08383092,
+      "downers": [
+        [
+          "18",
+          "Nariyuki Watabe"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00015713,
+      "endAhead": "83.1 km",
+      "downs": [
+        "40.680 km"
+      ]
+    },
+    {
+      "endChunk": "60.4 km",
+      "down": 1,
+      "chunk": 603,
+      "startChunk": "60.3 km",
+      "frac": 0.12735701,
+      "downers": [
+        [
+          "70",
+          "Noel Collins"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00031427,
+      "endAhead": "102.8 km",
+      "downs": [
+        "60.351 km"
+      ]
+    },
+    {
+      "endChunk": "85.4 km",
+      "down": 1,
+      "chunk": 853,
+      "startChunk": "85.3 km",
+      "frac": 0.18887492,
+      "downers": [
+        [
+          "68",
+          "Neale Halsall"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00031427,
+      "endAhead": "127.8 km",
+      "downs": [
+        "85.368 km"
+      ]
+    },
+    {
+      "endChunk": "92.3 km",
+      "down": 1,
+      "chunk": 922,
+      "startChunk": "92.2 km",
+      "frac": 0.20513828,
+      "downers": [
+        [
+          "42",
+          "Rob de Groot"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "134.7 km",
+      "downs": [
+        "92.230 km"
+      ]
+    },
+    {
+      "endChunk": "95.3 km",
+      "down": 1,
+      "chunk": 952,
+      "startChunk": "95.2 km",
+      "frac": 0.2119736,
+      "downers": [
+        [
+          "67",
+          "Mark Alton"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "137.7 km",
+      "downs": [
+        "95.244 km"
+      ]
+    },
+    {
+      "endChunk": "124.6 km",
+      "down": 1,
+      "chunk": 1245,
+      "startChunk": "124.5 km",
+      "frac": 0.27294155,
+      "downers": [
+        [
+          "55",
+          "Don Cramer"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "167.0 km",
+      "downs": [
+        "124.541 km"
+      ]
+    },
+    {
+      "endChunk": "135.1 km",
+      "down": 1,
+      "chunk": 1350,
+      "startChunk": "135.0 km",
+      "frac": 0.28975487,
+      "downers": [
+        [
+          "60",
+          "Grant Heaney"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "177.5 km",
+      "downs": [
+        "135.044 km"
+      ]
+    },
+    {
+      "endChunk": "148.1 km",
+      "down": 1,
+      "chunk": 1480,
+      "startChunk": "148.0 km",
+      "frac": 0.32715273,
+      "downers": [
+        [
+          "49",
+          "Bruce Wynne"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00039283,
+      "endAhead": "190.5 km",
+      "downs": [
+        "148.084 km"
+      ]
+    },
+    {
+      "endChunk": "177.2 km",
+      "down": 1,
+      "chunk": 1771,
+      "startChunk": "177.1 km",
+      "frac": 0.45482401,
+      "downers": [
+        [
+          "24",
+          "Les Bestt"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.0004714,
+      "endAhead": "219.6 km",
+      "downs": [
+        "177.157 km"
+      ]
+    },
+    {
+      "endChunk": "179.5 km",
+      "down": 1,
+      "chunk": 1794,
+      "startChunk": "179.4 km",
+      "frac": 0.46385921,
+      "downers": [
+        [
+          "73",
+          "Tony Giammichele"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00039283,
+      "endAhead": "221.9 km",
+      "downs": [
+        "179.428 km"
+      ]
+    },
+    {
+      "endChunk": "182.4 km",
+      "down": 1,
+      "chunk": 1823,
+      "startChunk": "182.3 km",
+      "frac": 0.47297297,
+      "downers": [
+        [
+          "46",
+          "Akira Nagusa"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00031427,
+      "endAhead": "224.8 km",
+      "downs": [
+        "182.385 km"
+      ]
+    },
+    {
+      "endChunk": "188.3 km",
+      "down": 1,
+      "chunk": 1882,
+      "startChunk": "188.2 km",
+      "frac": 0.48687932,
+      "downers": [
+        [
+          "33",
+          "Anatoly Reyter"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0002357,
+      "endAhead": "230.7 km",
+      "downs": [
+        "188.294 km"
+      ]
+    },
+    {
+      "endChunk": "191.3 km",
+      "down": 1,
+      "chunk": 1912,
+      "startChunk": "191.2 km",
+      "frac": 0.49159334,
+      "downers": [
+        [
+          "16",
+          "Takeshi Yokoyama"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00015713,
+      "endAhead": "233.7 km",
+      "downs": [
+        "191.247 km"
+      ]
+    },
+    {
+      "endChunk": "202.0 km",
+      "down": 1,
+      "chunk": 2019,
+      "startChunk": "201.9 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "52",
+          "Dale Regehr"
+        ]
+      ],
+      "downward": 0,
+      "rel": 7.857e-05,
+      "endAhead": "244.4 km",
+      "downs": [
+        "201.912 km"
+      ]
+    }
+  ],
+  "lookahead": 425,
+  "minDistance": "0.000 km",
+  "landout": 16
+}

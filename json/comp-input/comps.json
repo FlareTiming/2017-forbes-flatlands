@@ -1,0 +1,22 @@
+{
+  "civilId": "11691",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "forbes",
+  "to": "2016-12-29",
+  "compName": "Forbes Flatlands 2017",
+  "from": "2016-12-29",
+  "utcOffset": {
+    "timeZoneMinutes": 660
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "0.000 s"
+}

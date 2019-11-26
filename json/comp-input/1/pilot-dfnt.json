@@ -1,0 +1,24 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "138.938000 km"
+      },
+      "flown": {
+        "awardedFrac": 0,
+        "awardedMade": "0.000000 km",
+        "awardedTask": "138.938000 km"
+      }
+    },
+    "pilot": [
+      "4",
+      "Frank Chetcuti"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]

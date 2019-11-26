@@ -1,0 +1,312 @@
+[
+  [
+    [
+      "37",
+      "Gavin Myers"
+    ],
+    {
+      "frac": 1,
+      "effort": "197.559000 km"
+    }
+  ],
+  [
+    [
+      "13",
+      "Viv Clements"
+    ],
+    {
+      "frac": 0.99567834,
+      "effort": "194.709000 km"
+    }
+  ],
+  [
+    [
+      "39",
+      "Jon Durand Snr"
+    ],
+    {
+      "frac": 0.9879611,
+      "effort": "192.285000 km"
+    }
+  ],
+  [
+    [
+      "33",
+      "Anatoly Reyter"
+    ],
+    {
+      "frac": 0.95462262,
+      "effort": "185.087000 km"
+    }
+  ],
+  [
+    [
+      "76",
+      "Rory Duncan"
+    ],
+    {
+      "frac": 0.9107887,
+      "effort": "177.985000 km"
+    }
+  ],
+  [
+    [
+      "42",
+      "Rob de Groot"
+    ],
+    {
+      "frac": 0.90152802,
+      "effort": "176.731000 km"
+    }
+  ],
+  [
+    [
+      "71",
+      "Rob Larkin"
+    ],
+    {
+      "frac": 0.86417658,
+      "effort": "171.432000 km"
+    }
+  ],
+  [
+    [
+      "66",
+      "Ito Manabu"
+    ],
+    {
+      "frac": 0.83994444,
+      "effort": "167.556000 km"
+    }
+  ],
+  [
+    [
+      "52",
+      "Dale Regehr"
+    ],
+    {
+      "frac": 0.82991202,
+      "effort": "166.261000 km"
+    }
+  ],
+  [
+    [
+      "14",
+      "Peter Burkitt"
+    ],
+    {
+      "frac": 0.79657354,
+      "effort": "162.335000 km"
+    }
+  ],
+  [
+    [
+      "54",
+      "Dick Heffer"
+    ],
+    {
+      "frac": 0.77064362,
+      "effort": "159.517000 km"
+    }
+  ],
+  [
+    [
+      "57",
+      "Kodaka Fumio"
+    ],
+    {
+      "frac": 0.7695632,
+      "effort": "159.448000 km"
+    }
+  ],
+  [
+    [
+      "29",
+      "Sergei Sukleta"
+    ],
+    {
+      "frac": 0.7547461,
+      "effort": "158.224000 km"
+    }
+  ],
+  [
+    [
+      "64",
+      "Longfei Yang"
+    ],
+    {
+      "frac": 0.73437258,
+      "effort": "156.707000 km"
+    }
+  ],
+  [
+    [
+      "63",
+      "Len Paton"
+    ],
+    {
+      "frac": 0.68235838,
+      "effort": "152.699000 km"
+    }
+  ],
+  [
+    [
+      "4",
+      "Frank Chetcuti"
+    ],
+    {
+      "frac": 0.64454392,
+      "effort": "149.885000 km"
+    }
+  ],
+  [
+    [
+      "36",
+      "Steve Docherty"
+    ],
+    {
+      "frac": 0.55595,
+      "effort": "142.751000 km"
+    }
+  ],
+  [
+    [
+      "62",
+      "Josh Woods"
+    ],
+    {
+      "frac": 0.50254668,
+      "effort": "137.710000 km"
+    }
+  ],
+  [
+    [
+      "67",
+      "Mark Alton"
+    ],
+    {
+      "frac": 0.46380614,
+      "effort": "132.084000 km"
+    }
+  ],
+  [
+    [
+      "2",
+      "Derek Mckee"
+    ],
+    {
+      "frac": 0.38709678,
+      "effort": "106.908000 km"
+    }
+  ],
+  [
+    [
+      "6",
+      "Yoko Isomoto"
+    ],
+    {
+      "frac": 0.38601636,
+      "effort": "106.270000 km"
+    }
+  ],
+  [
+    [
+      "24",
+      "Les Bestt"
+    ],
+    {
+      "frac": 0.37058188,
+      "effort": "101.220000 km"
+    }
+  ],
+  [
+    [
+      "15",
+      "Ryosuke Hattori"
+    ],
+    {
+      "frac": 0.36965582,
+      "effort": "101.015000 km"
+    }
+  ],
+  [
+    [
+      "41",
+      "Tony Armstrong"
+    ],
+    {
+      "frac": 0.36780368,
+      "effort": "100.768000 km"
+    }
+  ],
+  [
+    [
+      "59",
+      "Glen Mcfarlane"
+    ],
+    {
+      "frac": 0.3523692,
+      "effort": "98.765000 km"
+    }
+  ],
+  [
+    [
+      "70",
+      "Noel Collins"
+    ],
+    {
+      "frac": 0.28569224,
+      "effort": "91.537000 km"
+    }
+  ],
+  [
+    [
+      "1",
+      "Hossain Tefaili"
+    ],
+    {
+      "frac": 0.17240314,
+      "effort": "77.867000 km"
+    }
+  ],
+  [
+    [
+      "55",
+      "Don Cramer"
+    ],
+    {
+      "frac": 0.16993364,
+      "effort": "77.003000 km"
+    }
+  ],
+  [
+    [
+      "68",
+      "Neale Halsall"
+    ],
+    {
+      "frac": 0.11560426,
+      "effort": "62.641000 km"
+    }
+  ],
+  [
+    [
+      "18",
+      "Nariyuki Watabe"
+    ],
+    {
+      "frac": 0.11375212,
+      "effort": "62.203000 km"
+    }
+  ],
+  [
+    [
+      "46",
+      "Akira Nagusa"
+    ],
+    {
+      "frac": 0.03225806,
+      "effort": "40.870000 km"
+    }
+  ]
+]
