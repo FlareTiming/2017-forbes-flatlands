@@ -10,7 +10,7 @@
     ],
     "sumOf": 4157
   },
-  "bestDistance": null,
+  "bestDistance": "138.938000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -424,20 +424,20 @@
       "frac": 0.39523695,
       "downers": [
         [
-          "72",
-          "Sasha Serebrennikova"
-        ],
-        [
           "46",
           "Akira Nagusa"
+        ],
+        [
+          "72",
+          "Sasha Serebrennikova"
         ]
       ],
       "downward": 9,
       "rel": 0.00132307,
       "endAhead": "124.0 km",
       "downs": [
-        "112.798 km",
-        "112.755 km"
+        "112.755 km",
+        "112.798 km"
       ]
     },
     {
@@ -689,6 +689,6 @@
     }
   ],
   "lookahead": 113,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 37
 }

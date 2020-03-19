@@ -10,7 +10,7 @@
     ],
     "sumOf": 4554
   },
-  "bestDistance": null,
+  "bestDistance": "151.366000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -24,12 +24,12 @@
           "Derek Mckee"
         ],
         [
-          "18",
-          "Nariyuki Watabe"
-        ],
-        [
           "66",
           "Ito Manabu"
+        ],
+        [
+          "18",
+          "Nariyuki Watabe"
         ]
       ],
       "downward": 0,
@@ -781,25 +781,25 @@
       "frac": 0.41458059,
       "downers": [
         [
+          "63",
+          "Len Paton"
+        ],
+        [
           "31",
           "Trent Brown"
         ],
         [
           "34",
           "Brad Porter"
-        ],
-        [
-          "63",
-          "Len Paton"
         ]
       ],
       "downward": 23,
       "rel": 0.00285463,
       "endAhead": "152.7 km",
       "downs": [
+        "146.102 km",
         "146.156 km",
-        "146.199 km",
-        "146.102 km"
+        "146.199 km"
       ]
     },
     {
@@ -1024,20 +1024,20 @@
       "frac": 0.49396135,
       "downers": [
         [
-          "62",
-          "Josh Woods"
-        ],
-        [
           "76",
           "Rory Duncan"
+        ],
+        [
+          "62",
+          "Josh Woods"
         ]
       ],
       "downward": 9,
       "rel": 0.00120773,
       "endAhead": "156.7 km",
       "downs": [
-        "150.174 km",
-        "150.169 km"
+        "150.169 km",
+        "150.174 km"
       ]
     },
     {
@@ -1110,20 +1110,20 @@
       "frac": 0.49890206,
       "downers": [
         [
-          "5",
-          "Filippo Oppici"
-        ],
-        [
           "11",
           "Steve Blenkinsop"
+        ],
+        [
+          "5",
+          "Filippo Oppici"
         ]
       ],
       "downward": 3,
       "rel": 0.00054897,
       "endAhead": "157.3 km",
       "downs": [
-        "150.794 km",
-        "150.714 km"
+        "150.714 km",
+        "150.794 km"
       ]
     },
     {
@@ -1185,6 +1185,6 @@
     }
   ],
   "lookahead": 66,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 69
 }

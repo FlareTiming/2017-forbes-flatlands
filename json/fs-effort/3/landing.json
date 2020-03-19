@@ -10,7 +10,7 @@
     ],
     "sumOf": 4561
   },
-  "bestDistance": null,
+  "bestDistance": "155.520000 km",
   "difficulty": [
     {
       "endChunk": "12.1 km",
@@ -413,6 +413,6 @@
     }
   ],
   "lookahead": 222,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 21
 }
