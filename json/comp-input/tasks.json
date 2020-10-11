@@ -92,11 +92,15 @@
           "28",
           "Mikhail Karmazin"
         ],
-        [
-          {
-            "penalty-points": 15
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -15
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:30"
       ]
     ],
@@ -520,11 +524,15 @@
           "67",
           "Mark Alton"
         ],
-        [
-          {
-            "penalty-points": 11.5
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -11.5
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:23"
       ]
     ],
